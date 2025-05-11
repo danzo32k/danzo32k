@@ -1,7 +1,7 @@
 ## Óla, meu nome é Victor Gabriel 👋
 
 
-- 📖 Estudante de Analise e Deselvolvimentos de Sistemas.
+- 📖 Estudante de Analise e Desenvolvimento de Sistemas.
 - 📍 Timbiras - MA
 - 🗣️ Estudante nivel intermediario de Inglês
 
