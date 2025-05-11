@@ -1,22 +1,25 @@
-## Óla, meu nome é Victor Gabriel 👋
+## Olá, meu nome é Victor Gabriel 👋
 
 
-- 📖 Estudante de Analise e Desenvolvimento de Sistemas.
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 - 📍 Timbiras - MA
-- 🗣️ Estudante nivel intermediario de Inglês
+- 🗣️ Estudante nivel intermediário de Inglês
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danzo32k&show_icons=true&theme=dracula)
-
-
-
-## 🔧 Linguagens utilizadas no dia a dia:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danzo32k&layout=compact&theme=dracula)
+<div>
+    <body>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danzo32k&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danzo32k&layout=compact&theme=dracula)
+
+</body>
+</div>
+
+
+
 
  ## ☎️ Meios de contato:
 
